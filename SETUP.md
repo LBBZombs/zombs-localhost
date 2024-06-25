@@ -48,8 +48,8 @@ Please read the following instructions:
 12. Click on `Node.js`:
 ![image](https://github.com/LBBZombs/zombs-session-saver/assets/139074757/3be9bd11-b7e0-4b55-9231-4b00adc50c4b)
 ------------------------------------------------------
-13. Go to `localhost` to use it:
-![image](https://github.com/LBBZombs/zombs-localhost/assets/139074757/2cf88325-c194-419d-9fad-02261c943ee3)
+13. Go to `localhost:1000` to use it:
+![image](https://github.com/LBBZombs/zombs-localhost/assets/139074757/4d610ccf-d511-4cf9-9699-3a5a5a12a0e0)
 
 You have reached the end of the setup. Enjoy!
 ------------------------------------------------------
