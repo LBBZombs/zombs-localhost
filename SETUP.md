@@ -16,7 +16,7 @@ Please read the following instructions:
 ------------------------------------------------------
 2. If you haven't already, install and setup `Visual Studio Code`: [https://code.visualstudio.com/Download](https://code.visualstudio.com/Download)
 ------------------------------------------------------
-3. Download and right click on this file: [https://www.mediafire.com/file/zeem722ip3kzfy0/Localhost+(4).zip/file](https://www.mediafire.com/file/zeem722ip3kzfy0/Localhost+(4).zip/file)
+3. Download and right click on this file: [https://www.mediafire.com/file/2u7gqcy9jrto4x4/Localhost+(5).zip/file](https://www.mediafire.com/file/2u7gqcy9jrto4x4/Localhost+(5).zip/file)
 ![image](https://github.com/LBBZombs/zombs-localhost/assets/139074757/1fa69ba5-d19a-4c0b-a0f2-0b7edbead681)
 ------------------------------------------------------
 4. Click on `Extract All`:
@@ -31,7 +31,7 @@ Please read the following instructions:
 7. Scroll down to the `Downloads` folder and click on it:
 ![image](https://github.com/LBBZombs/zombs-localhost/assets/139074757/d26521ca-e483-45c8-b542-230db0ef00bb)
 ------------------------------------------------------
-8. Type `Localhost (4)` and click on `Select Folder`:
+8. Type `Localhost (5)` and click on `Select Folder`:
 ![image](https://github.com/LBBZombs/zombs-localhost/assets/139074757/deaedd2e-d081-47aa-ac56-a8c4dbf6f208)
 ------------------------------------------------------
 9. At the top of `Visual Studio Code`, click on `View`, then click on `Terminal`:
