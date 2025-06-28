@@ -16,7 +16,7 @@ Please read the following instructions:
 ------------------------------------------------------
 2. If you haven't already, install and setup `Visual Studio Code`: [https://code.visualstudio.com/Download](https://code.visualstudio.com/Download)
 ------------------------------------------------------
-3. Download and right click on this file: [https://www.mediafire.com/file/vyklxj9kz1u3q76/Localhost+(5)+(1).zip/file](https://www.mediafire.com/file/vyklxj9kz1u3q76/Localhost+(5)+(1).zip/file)
+3. Download and right click on this file: [https://www.mediafire.com/file/gevx5lkssvd4lxv/Localhost4.zip/file](https://www.mediafire.com/file/gevx5lkssvd4lxv/Localhost4.zip/file)
 ![image](https://github.com/LBBZombs/zombs-localhost/assets/139074757/1fa69ba5-d19a-4c0b-a0f2-0b7edbead681)
 ------------------------------------------------------
 4. Click on `Extract All`:
